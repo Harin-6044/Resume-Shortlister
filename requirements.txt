@@ -1,0 +1,6 @@
+PyMuPDF
+pydantic
+streamlit
+python-docx
+python-dotenv
+google-generativeai
